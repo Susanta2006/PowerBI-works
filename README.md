@@ -48,7 +48,9 @@ An end-to-end business intelligence solution developed to analyze retail perform
 ## 👤 About Me
 
 _Susanta Banik_
+
 **Applied AI & Data Science Student at IIT Jodhpur.**
+
 _Passionate about Machine Learning, Data Analytics, and turning raw data into compelling stories._
 
 ### Created as part of the Visualization and Storytelling with Data Course - IIT Jodhpur.
