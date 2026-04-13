@@ -19,6 +19,10 @@
  - Bar Charts: Optimized for Sub-Category comparison (e.g., comparing Technology vs. Furniture profits).
 
  - Time Series: Used to track seasonality and identify month-over-month growth patterns.
+   
+**Image**:
+
+<img width="1378" height="731" alt="dashboard-1" src="https://github.com/user-attachments/assets/605f8edd-afa4-4a7b-b5f0-95c261a2392e" />
 
 ## Storytelling Narrative:
 _The dashboard highlights that while 'Technology' drives significant revenue, certain 'Furniture' sub-categories (like Tables) often show negative margins despite high sales volume, suggesting a need for pricing strategy revisions._
