@@ -42,6 +42,9 @@
 
  - Matrix View: Provides a granular "deep-dive" into performance metrics (Sales, Profit, Quantity, Discount).
 
+## Image:
+
+<img width="1291" height="712" alt="dashboard-2" src="https://github.com/user-attachments/assets/0a785c22-9918-44ab-b95b-32c097663d69" />
 
 ## The Data Story: Optimizing the US Retail Frontier
 
