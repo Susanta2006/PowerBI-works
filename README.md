@@ -53,6 +53,7 @@ An end-to-end business intelligence solution developed to analyze retail perform
 
 <img width="1378" height="731" alt="dashboard-1" src="https://github.com/user-attachments/assets/75ef5fc3-b3df-4070-b8f9-dd5cb54e62d1" />
 
+
 **Dashboard-2:**
 
 <img width="1291" height="712" alt="dashboard-2" src="https://github.com/user-attachments/assets/0a61f114-e9d4-4ebe-b66e-ee2c666e88ac" />
@@ -64,6 +65,7 @@ _Susanta Banik_
 **Applied AI & Data Science Student at IIT Jodhpur.**
 
 **AI & Data Science Student at Techno College of Engineering Agartala**
+_(Dual Degree)_
 
 _Passionate about Machine Learning, Data Analytics, and turning raw data into compelling stories._
 
