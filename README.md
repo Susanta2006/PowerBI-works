@@ -35,21 +35,35 @@ An end-to-end business intelligence solution developed to analyze retail perform
 
     .
     ├── dashboards/
-    │   ├── superstore-analysis/
+    │   ├── dashboard-1/
     │   │   ├── README.md (Technical breakdown)
-    │   │   ├── superstore_analysis.pbix
-    │   │   └── screenshot.png
-    │   └── [future-project-name]/
+    │   │   ├── dashboard-1.pbix
+    │   │   └── dashboard-1.png
+    │   └── dashboard-2/
+    │   │   ├── README.md (Technical breakdown)
+    │   │   ├── dashboard2.pbix
+    │   │   └── dashboard2.png
     ├── data/
     │   └── (Raw datasets used for analysis)
     └── README.md (This file)
 
+# Images:
 
-## 👤 About Me
+**Dashboard-1:**
+
+<img width="1378" height="731" alt="dashboard-1" src="https://github.com/user-attachments/assets/75ef5fc3-b3df-4070-b8f9-dd5cb54e62d1" />
+
+**Dashboard-2:**
+
+<img width="1291" height="712" alt="dashboard-2" src="https://github.com/user-attachments/assets/0a61f114-e9d4-4ebe-b66e-ee2c666e88ac" />
+
+## 👤 Author:
 
 _Susanta Banik_
 
 **Applied AI & Data Science Student at IIT Jodhpur.**
+
+**AI & Data Science Student at Techno College of Engineering Agartala**
 
 _Passionate about Machine Learning, Data Analytics, and turning raw data into compelling stories._
 
